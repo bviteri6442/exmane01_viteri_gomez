@@ -1,0 +1,15 @@
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\bin\Debug\net8.0\examen01_ti_gomez_viteri.exe
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\bin\Debug\net8.0\examen01_ti_gomez_viteri.deps.json
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\bin\Debug\net8.0\examen01_ti_gomez_viteri.runtimeconfig.json
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\bin\Debug\net8.0\examen01_ti_gomez_viteri.dll
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\bin\Debug\net8.0\examen01_ti_gomez_viteri.pdb
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.AssemblyInfoInputs.cache
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.AssemblyInfo.cs
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.csproj.CoreCompileInputs.cache
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.sourcelink.json
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.dll
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\refint\examen01_ti_gomez_viteri.dll
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.pdb
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\examen01_ti_gomez_viteri.genruntimeconfig.cache
+C:\Users\LEGIO\source\repos\examen01_ti_gomez_viteri\obj\Debug\net8.0\ref\examen01_ti_gomez_viteri.dll

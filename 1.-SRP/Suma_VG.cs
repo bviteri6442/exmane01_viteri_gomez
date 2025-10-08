@@ -27,7 +27,7 @@ namespace examen01_ti_gomez_viteri.SRP;
 
                 int s_VG = da_VG + db_VG + carry_VG;
 
-                // Calcular dígito y acarreo usando solo + y - (sin division ni modulo)
+                
                 carry_VG = 0;
                 while (s_VG >= 10)
                 {
@@ -45,8 +45,9 @@ namespace examen01_ti_gomez_viteri.SRP;
                 sb_VG.Insert(0, (char)('0' + carry_VG));
             }
 
-            // remover ceros a la izquierda si fuese necesario (no ocurre para sumas estándar salvo "0")
+            
             return sb_VG.ToString();
-            }
         }
+
+    }
 

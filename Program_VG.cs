@@ -17,6 +17,7 @@ namespace examen01_ti_viteri_gomez.Presentation_VG;
             string B_VG = Console.ReadLine().Trim();
 
             string resultado_VG = calculadora_VG.Procesar_VG(A_VG, B_VG);
+            Console.WriteLine($"PROCESO:{calculadora_VG.Procesar_VG(A_VG, B_VG)}");
             Console.WriteLine($"RESULTADO: {resultado_VG}");
         }
     }
