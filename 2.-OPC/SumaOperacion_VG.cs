@@ -9,9 +9,8 @@ namespace examen01_ti_gomez_viteri.OPC;
 
         public string Calcular_VG(string a_VG, string b_VG)
         {
-            Suma_VG suma_VG = new Suma_VG();
-            Console.WriteLine("Realizando" );
-        return suma_VG.Sumar_VG(a_VG, b_VG);
+            Suma_VG suma_VG = new Suma_VG(); 
+            return suma_VG.Sumar_VG(a_VG, b_VG);
 
         }
     }
