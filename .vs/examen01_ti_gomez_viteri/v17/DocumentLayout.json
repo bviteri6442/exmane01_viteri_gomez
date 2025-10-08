@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|c:\\users\\legio\\source\\repos\\examen01_ti_gomez_viteri\\dip\\calculadora_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|solutionrelative:dip\\calculadora_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|c:\\users\\legio\\source\\repos\\examen01_ti_gomez_viteri\\opc\\ioperacion_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|solutionrelative:opc\\ioperacion_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|c:\\users\\legio\\source\\repos\\examen01_ti_gomez_viteri\\opc\\restaoperacion_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|solutionrelative:opc\\restaoperacion_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|c:\\users\\legio\\source\\repos\\examen01_ti_gomez_viteri\\opc\\sumaoperacion_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|solutionrelative:opc\\sumaoperacion_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|c:\\users\\legio\\source\\repos\\examen01_ti_gomez_viteri\\srp\\resta_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|solutionrelative:srp\\resta_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|c:\\users\\legio\\source\\repos\\examen01_ti_gomez_viteri\\srp\\suma_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|solutionrelative:srp\\suma_vg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C464D08F-5C07-4A7B-9A66-F106FEF098FD}|examen01_ti_gomez_viteri.csproj|c:\\users\\legio\\source\\repos\\examen01_ti_gomez_viteri\\examen01_ti_gomez_viteri.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -27,32 +47,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Calculadora_VG.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\DIP\\Calculadora_VG.cs",
+              "RelativeDocumentMoniker": "DIP\\Calculadora_VG.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\DIP\\Calculadora_VG.cs",
+              "RelativeToolTip": "DIP\\Calculadora_VG.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:58:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resta_VG.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\SRP\\Resta_VG.cs",
+              "RelativeDocumentMoniker": "SRP\\Resta_VG.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\SRP\\Resta_VG.cs",
+              "RelativeToolTip": "SRP\\Resta_VG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:50:41.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Suma_VG.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\SRP\\Suma_VG.cs",
+              "RelativeDocumentMoniker": "SRP\\Suma_VG.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\SRP\\Suma_VG.cs",
+              "RelativeToolTip": "SRP\\Suma_VG.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:50:27.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestaOperacion_VG.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\OPC\\RestaOperacion_VG.cs",
+              "RelativeDocumentMoniker": "OPC\\RestaOperacion_VG.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\OPC\\RestaOperacion_VG.cs",
+              "RelativeToolTip": "OPC\\RestaOperacion_VG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:50:04.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SumaOperacion_VG.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\OPC\\SumaOperacion_VG.cs",
+              "RelativeDocumentMoniker": "OPC\\SumaOperacion_VG.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\OPC\\SumaOperacion_VG.cs",
+              "RelativeToolTip": "OPC\\SumaOperacion_VG.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T15:49:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IOperacion_VG.cs",
               "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\OPC\\IOperacion_VG.cs",
               "RelativeDocumentMoniker": "OPC\\IOperacion_VG.cs",
               "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\OPC\\IOperacion_VG.cs",
               "RelativeToolTip": "OPC\\IOperacion_VG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:41:14.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T15:41:14.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "examen01_ti_gomez_viteri",
+              "DocumentIndex": 6,
+              "Title": "examen01_ti_gomez_viteri.csproj",
               "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\examen01_ti_gomez_viteri.csproj",
               "RelativeDocumentMoniker": "examen01_ti_gomez_viteri.csproj",
               "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\examen01_ti_gomez_viteri.csproj",
               "RelativeToolTip": "examen01_ti_gomez_viteri.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T15:38:46.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T15:38:46.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\examen01_ti_gomez_viteri\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -60,8 +139,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:21:59.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T15:21:59.485Z"
             }
           ]
         }

@@ -12,5 +12,6 @@ namespace examen01_ti_gomez_viteri.OPC
 {
     internal class IOperacion_VG
     {
+        string Calcular_VG(string a_VG, string b_VG);
     }
 }
