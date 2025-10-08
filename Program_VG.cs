@@ -7,17 +7,17 @@ namespace examen01_ti_viteri_gomez.Presentation_VG;
     {
         static void Main(string[] args)
         {
-            IOperacion_VG operacion_VIGO = new SumaOperacion_VG(); // inyectar Suma o Resta según prueba
-            Calculadora_VG calculadora_VIGO = new Calculadora_VG(operacion_VIGO);
+            IOperacion_VG operacion_VG = new SumaOperacion_VG(); 
+            Calculadora_VG calculadora_VG = new Calculadora_VG(operacion_VG);
 
             Console.Write("Ingrese A: ");
-            string A_VIGO = Console.ReadLine().Trim();
+            string A_VG = Console.ReadLine().Trim();
 
             Console.Write("Ingrese B: ");
-            string B_VIGO = Console.ReadLine().Trim();
+            string B_VG = Console.ReadLine().Trim();
 
-            string resultado_VIGO = calculadora_VIGO.Procesar_VG(A_VIGO, B_VIGO);
-            Console.WriteLine($"RESULTADO: {resultado_VIGO}");
+            string resultado_VG = calculadora_VG.Procesar_VG(A_VG, B_VG);
+            Console.WriteLine($"RESULTADO: {resultado_VG}");
         }
     }
 

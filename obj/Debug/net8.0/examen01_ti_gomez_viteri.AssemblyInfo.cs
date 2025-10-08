@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examen01_ti_gomez_viteri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4ab8c4487c347b2f1121d295121710aa26d09a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d86b80b662b9e2b6e49e4d0697e63d491d3c75c")]
 [assembly: System.Reflection.AssemblyProductAttribute("examen01_ti_gomez_viteri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examen01_ti_gomez_viteri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
